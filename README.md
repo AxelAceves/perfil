@@ -1,3 +1,11 @@
+
+
+# 💫 Sobre de mi :
+### Hola, soy [Tu Nombre]<br><br>🎓 Soy un docente de ingeniería en sistemas apasionado por la creación de programas, videojuegos y estructuras de bases de datos. Con 22 años de edad, mi entusiasmo y dedicación se centran en explorar y perfeccionar mis habilidades en el mundo de la informática.<br><br>🔭 Actualmente estoy trabajando en el desarrollo de un nuevo sistema de gestión de datos que simplificará el proceso de análisis y almacenamiento de información.<br><br>👯 Estoy buscando colaborar en proyectos emocionantes que desafíen mis habilidades técnicas y me permitan aprender de otros profesionales talentosos.<br><br>🤝 Estoy buscando ayuda con el diseño de interfaces de usuario intuitivas y amigables para mis aplicaciones en desarrollo.<br><br>🌱 Actualmente estoy aprendiendo nuevas técnicas de programación orientada a objetos y explorando las últimas tendencias en el desarrollo de videojuegos.<br><br>💬 Pregúntame acerca de cualquier cosa relacionada con el desarrollo de software, bases de datos y métodos de enseñanza interactivos en el campo de la ingeniería en sistemas.<br><br>⚡ Dato curioso: Aparte de mi pasión por la tecnología, también disfruto pasar tiempo al aire libre y explorar la naturaleza en mi tiempo libre. 
+
+
+
+
 く__,.ヘヽ.　　　　/　,ー､ 〉
 　　　　　＼ ', !-─‐-i　/　/´
 　　　 　 ／｀ｰ'　　　 L/／｀ヽ､
@@ -16,9 +24,7 @@
 　　　　　 　　　ﾄ-,/　|___./
 　　　　　 　　　'ｰ'　　!_,.:
 
-
-# 💫 Sobre de mi :
-### Hola, soy [Tu Nombre]<br><br>🎓 Soy un docente de ingeniería en sistemas apasionado por la creación de programas, videojuegos y estructuras de bases de datos. Con 22 años de edad, mi entusiasmo y dedicación se centran en explorar y perfeccionar mis habilidades en el mundo de la informática.<br><br>🔭 Actualmente estoy trabajando en el desarrollo de un nuevo sistema de gestión de datos que simplificará el proceso de análisis y almacenamiento de información.<br><br>👯 Estoy buscando colaborar en proyectos emocionantes que desafíen mis habilidades técnicas y me permitan aprender de otros profesionales talentosos.<br><br>🤝 Estoy buscando ayuda con el diseño de interfaces de usuario intuitivas y amigables para mis aplicaciones en desarrollo.<br><br>🌱 Actualmente estoy aprendiendo nuevas técnicas de programación orientada a objetos y explorando las últimas tendencias en el desarrollo de videojuegos.<br><br>💬 Pregúntame acerca de cualquier cosa relacionada con el desarrollo de software, bases de datos y métodos de enseñanza interactivos en el campo de la ingeniería en sistemas.<br><br>⚡ Dato curioso: Aparte de mi pasión por la tecnología, también disfruto pasar tiempo al aire libre y explorar la naturaleza en mi tiempo libre. <br>
+<br>
 
 
 ## 🌐 Socials:
